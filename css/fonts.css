@@ -1,0 +1,20 @@
+@font-face{
+
+    font-family: 'AtariClassicChunky';
+    
+    src: url('../fonts/WebFont.eot');
+    
+    src: url('../fonts/AtariClassicChunky/AtariClassicChunky.eot?iefix') format('eot'),
+    
+    url('../fonts/AtariClassicChunky/AtariClassicChunky.woff') format('woff'),
+    
+    url('../fonts/AtariClassicChunky/AtariClassicChunky.ttf') format('truetype');
+ 
+    
+    font-weight: bold;
+    
+    font-style: normal;
+    
+    }
+
+  
